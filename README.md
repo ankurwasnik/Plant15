@@ -1,0 +1,2 @@
+# Plant15
+This is the ai project which deals with detecting anamolies and health impurities and quality of 15 types of classes. There are 3 categories with 5 sub-categories each. Here are the trained model file with 95% training accuracy and 94% validation accuracy. The graphs looks good with training and loss factors. In short, get this repository and start deploying in web-browsers and other systems.
